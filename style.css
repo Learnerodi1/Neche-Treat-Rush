@@ -389,7 +389,7 @@ footer> :first-child h4{
   text-transform: uppercase;
   font-family: cursive;
   color: var(--first-color);
-  text-shadow: 5px 5px 5px whitesmoke , 10px -10px 10px rgb(65, 53, 53);
+  font-weight:bolder;
 }
 footer > :first-child h4~p{
   line-height: 1.5;
@@ -848,10 +848,10 @@ section#about{
   position: fixed;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.842);
-  width: 90%;
+  width: 100%;
   z-index: 100;
   padding: 15px;
-  right: 5%;
+  right: 0%;
   padding-block: 20px;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
