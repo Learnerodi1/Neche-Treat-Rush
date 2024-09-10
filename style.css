@@ -852,7 +852,7 @@ section#about{
   z-index: 100;
   padding: 15px;
   right: 5%;
-  padding-top: 20px;
+  padding-block: 20px;
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
   border: 5px solid var(--second-color);
